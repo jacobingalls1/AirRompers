@@ -1,0 +1,1 @@
+A simple project based around flying a plane over an ocean. The controls turned out feeling really great, but I didn't get around to better weapons. It could have been done better, but this is set up for two players. I set the views in different windows so that each player can hide his own position. This could easily be improved for efficiency and fun.
